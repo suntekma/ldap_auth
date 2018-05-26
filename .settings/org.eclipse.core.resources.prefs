@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//UserExpand/UserModel/admin.py=utf-8
+encoding//UserExpand/UserModel/apps.py=utf-8
+encoding//UserExpand/UserModel/ldaphelper.py=utf-8
+encoding//UserExpand/UserModel/migrations/0002_user_phone.py=utf-8
+encoding//UserExpand/UserModel/migrations/0003_user_manager.py=utf-8
+encoding//UserExpand/UserModel/models.py=utf-8
+encoding//UserExpand/UserModel/tests.py=utf-8
+encoding//UserExpand/UserModel/urls.py=utf-8
+encoding//UserExpand/UserModel/views.py=utf-8
